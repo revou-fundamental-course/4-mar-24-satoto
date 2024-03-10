@@ -14,10 +14,10 @@ body {
   min-height: 100vh;
   background: rgba(97, 254, 228, 0.9);
 }
-/* 
+
   .container {
     min-width: 250px;
-  } */
+  } 
 
 .box {
   width: 500px;
@@ -199,7 +199,7 @@ button.calculate:hover {
   display: block;
   position: relative;
   padding-left: 35px;
-  /* margin-bottom: 12px; */
+  margin-bottom: 12px; 
   margin-top: 7px;
   cursor: pointer;
   font-size: 22px;
